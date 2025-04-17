@@ -1,2 +1,20 @@
 # CHAT-APPLICATION
-Chat application and develop a real time chat application using socket
+
+*COMPANY*: CODTECH ITSOLUTIONS
+
+*NAME*: NILOTPAL ROY
+
+*INTERN ID*: CT06WX123
+
+*DOMAIN*: FULL STACK DEVELOPMENT
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
+##Chat application and develop a real time chat application using socket
+
+
+#OUTPUT
+
